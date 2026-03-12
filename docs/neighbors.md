@@ -2,12 +2,13 @@
 
 ## Nearby mesh communities
 
+- Nashville, Tennessee: [NashMe.sh](https://nashme.sh/)
 - Knoxville, Tennessee: [TennMesh](https://www.thecommschannel.com/tennmesh/index.html)
-- Nashville, Tennessee: [Meshville](https://meshville.org/)
 - Birmingham, Alabama: [Birmingham Mesh](https://birminghammesh.org/)
 - North Carolina: [NCMesh](https://ncmesh.net/)
 - Augusta, GA: [CSRA Mesh](https://www.csramesh.org/)
-- Florida Mesh, Florida: [FLMesh Discord](https://discord.gg/floridamesh), [Florida Mesh Website](https://areyoumeshingwith.us)
+- Georgia: [GSMC](https://GAmesh.net/)
+- Florida: [Florida Mesh](https://areyoumeshingwith.us)
 
 ## Other meshes we love 💚
 
